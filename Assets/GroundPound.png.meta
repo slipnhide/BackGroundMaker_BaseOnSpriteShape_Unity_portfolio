@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 2cb448a503edbd344931cea3ced34dda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -828710771379317195
+    second: GroundPound_0
+  - first:
+      213: 415854143563922948
+    second: GroundPound_1
+  - first:
+      213: 8082941653521929606
+    second: GroundPound_2
+  - first:
+      213: 1493115355274886542
+    second: GroundPound_3
+  - first:
+      213: 5341661709395059493
+    second: GroundPound_4
+  - first:
+      213: -1374163772715119616
+    second: GroundPound_5
+  - first:
+      213: 9026149797001771366
+    second: GroundPound_6
+  - first:
+      213: -2879801977781015544
+    second: GroundPound_7
+  - first:
+      213: 8022242715307236908
+    second: GroundPound_8
+  - first:
+      213: 2436983336088876878
+    second: GroundPound_9
+  - first:
+      213: -7068330480000688785
+    second: GroundPound_10
+  - first:
+      213: 6497088466137307893
+    second: GroundPound_11
+  - first:
+      213: 3436546005919860740
+    second: GroundPound_12
+  - first:
+      213: -6757813337644305091
+    second: GroundPound_13
+  - first:
+      213: 6758163412023296157
+    second: GroundPound_14
+  - first:
+      213: -5306590818656237807
+    second: GroundPound_15
+  - first:
+      213: 1188579389505825324
+    second: GroundPound_16
+  - first:
+      213: -1106397451107244702
+    second: GroundPound_17
+  - first:
+      213: 911336035443780290
+    second: GroundPound_18
+  - first:
+      213: -301540529995572545
+    second: GroundPound_19
+  - first:
+      213: 6931868991377134310
+    second: GroundPound_20
+  - first:
+      213: -217829337425908406
+    second: GroundPound_21
+  - first:
+      213: 3147431429737773231
+    second: GroundPound_22
+  - first:
+      213: -417074718370771328
+    second: GroundPound_23
+  - first:
+      213: -8126893801204731369
+    second: GroundPound_24
+  - first:
+      213: -741644135888503914
+    second: GroundPound_25
+  - first:
+      213: 9187651327376599156
+    second: GroundPound_26
+  - first:
+      213: -8320367922423677510
+    second: GroundPound_27
+  - first:
+      213: 7148424033874610248
+    second: GroundPound_28
+  - first:
+      213: 1083455546043285537
+    second: GroundPound_29
+  - first:
+      213: -4403474070247928232
+    second: GroundPound_30
+  - first:
+      213: -7214840138597498787
+    second: GroundPound_31
+  - first:
+      213: 6231464670781971068
+    second: GroundPound_32
+  - first:
+      213: 4067403803135947095
+    second: GroundPound_33
+  - first:
+      213: 7690923440218695420
+    second: GroundPound_34
+  - first:
+      213: 6505554853297657449
+    second: GroundPound_35
+  - first:
+      213: -4583348938198699231
+    second: GroundPound_36
+  - first:
+      213: -2589699457225834785
+    second: GroundPound_37
+  - first:
+      213: 6685191882696115549
+    second: GroundPound_38
+  - first:
+      213: 7826002986939575258
+    second: GroundPound_39
+  - first:
+      213: 5770281730876702511
+    second: GroundPound_40
+  - first:
+      213: 7971251608435425405
+    second: GroundPound_41
+  - first:
+      213: 5283674447025881844
+    second: GroundPound_42
+  - first:
+      213: 3254658879051910167
+    second: GroundPound_43
+  - first:
+      213: -8313409067275223644
+    second: GroundPound_44
+  - first:
+      213: 6257788224840500519
+    second: GroundPound_45
+  - first:
+      213: 1175256887211656801
+    second: GroundPound_46
+  - first:
+      213: 2631652259179651628
+    second: GroundPound_47
+  - first:
+      213: -1213156018370014901
+    second: GroundPound_48
+  - first:
+      213: -7553701441372540521
+    second: GroundPound_49
+  - first:
+      213: 1923542811418043903
+    second: GroundPound_50
+  - first:
+      213: 6859133761476408928
+    second: GroundPound_51
+  - first:
+      213: 2540545018238279344
+    second: GroundPound_52
+  - first:
+      213: -8003718687071706837
+    second: GroundPound_53
+  - first:
+      213: -3537792312990373674
+    second: GroundPound_54
+  - first:
+      213: 7441661130293901743
+    second: GroundPound_55
+  - first:
+      213: 9134060731430351399
+    second: GroundPound_56
+  - first:
+      213: 6609774704551935744
+    second: GroundPound_57
+  - first:
+      213: 2298003678573222675
+    second: GroundPound_58
+  - first:
+      213: -6932514191691220185
+    second: GroundPound_59
+  - first:
+      213: 2483181329351108450
+    second: GroundPound_60
+  - first:
+      213: -3719774952450817157
+    second: GroundPound_61
+  - first:
+      213: -3755487142608767351
+    second: GroundPound_62
+  - first:
+      213: -2328918640351498406
+    second: GroundPound_63
+  - first:
+      213: 3029712981716777730
+    second: GroundPound_64
+  - first:
+      213: -2272009178708014269
+    second: GroundPound_65
+  - first:
+      213: 3070343587812745506
+    second: GroundPound_66
+  - first:
+      213: 8795765629706018282
+    second: GroundPound_67
+  - first:
+      213: 3334794966932000651
+    second: GroundPound_68
+  - first:
+      213: -7980864021552936127
+    second: GroundPound_69
+  - first:
+      213: 5571759033719519036
+    second: GroundPound_70
+  - first:
+      213: -7472064663786605946
+    second: GroundPound_71
+  - first:
+      213: 2093569556567283768
+    second: GroundPound_72
+  - first:
+      213: -3927863408730769761
+    second: GroundPound_73
+  - first:
+      213: -7136647750693732815
+    second: GroundPound_74
+  - first:
+      213: -5759667380507284903
+    second: GroundPound_75
+  - first:
+      213: 6049155425455419492
+    second: GroundPound_76
+  - first:
+      213: -2880852172218948458
+    second: GroundPound_77
+  - first:
+      213: 7712739861741541424
+    second: GroundPound_78
+  - first:
+      213: -2360923039912342343
+    second: GroundPound_79
+  - first:
+      213: -5211926235414913100
+    second: GroundPound_80
+  - first:
+      213: -2583489361743748002
+    second: GroundPound_81
+  - first:
+      213: -5783332435091218977
+    second: GroundPound_82
+  - first:
+      213: -4140148236358365160
+    second: GroundPound_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundPound_0
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3360
+        width: 223
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365562b1f3df74f0800000000000000
+      internalID: -828710771379317195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_1
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 3624
+        width: 22
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e7089e32965c500800000000000000
+      internalID: 415854143563922948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_2
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 3666
+        width: 17
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685126ecb906c2070800000000000000
+      internalID: 8082941653521929606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_3
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 3810
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d37d7318c98b410800000000000000
+      internalID: 1493115355274886542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_4
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 3803
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236ccaf505612a40800000000000000
+      internalID: 5341661709395059493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3389
+        width: 482
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cca10545dfdece0800000000000000
+      internalID: -1374163772715119616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3372
+        width: 532
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66931c3fa63534d70800000000000000
+      internalID: 9026149797001771366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_7
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 3361
+        width: 368
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c25eaeb53e808d0800000000000000
+      internalID: -2879801977781015544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_8
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 3359
+        width: 262
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5ad3fe3bb45f60800000000000000
+      internalID: 8022242715307236908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_9
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 3754
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47bf17be67e1d120800000000000000
+      internalID: 2436983336088876878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_10
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 3623
+        width: 9
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1e78c0ee38ed90800000000000000
+      internalID: -7068330480000688785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_11
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 3718
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad662798b4a2a50800000000000000
+      internalID: 6497088466137307893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_12
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 3737
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080421826011bf20800000000000000
+      internalID: 3436546005919860740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_13
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 3617
+        width: 228
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d357057e29c6732a0800000000000000
+      internalID: -6757813337644305091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_14
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3667
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c0b321d1d9cd50800000000000000
+      internalID: 6758163412023296157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_15
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 3691
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11745a514c33b56b0800000000000000
+      internalID: -5306590818656237807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_16
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 3677
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a68da48aeae7010800000000000000
+      internalID: 1188579389505825324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_17
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 3578
+        width: 7
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ea52516945a0f0800000000000000
+      internalID: -1106397451107244702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_18
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3671
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caa3a7bb47b5ac00800000000000000
+      internalID: 911336035443780290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_19
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 3659
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1b305c76b0dbf0800000000000000
+      internalID: -301540529995572545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_20
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 3652
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2549cfe12f23060800000000000000
+      internalID: 6931868991377134310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_21
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 3657
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de1192f5d1afcf0800000000000000
+      internalID: -217829337425908406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_22
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 3634
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87b64a53cedab20800000000000000
+      internalID: 3147431429737773231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_23
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 3601
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec6bed0c0463af0800000000000000
+      internalID: -417074718370771328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_24
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 3430
+        width: 4
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123edb5529773f80800000000000000
+      internalID: -8126893801204731369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_25
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 3358
+        width: 11
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b3d9a769625b5f0800000000000000
+      internalID: -741644135888503914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_26
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 3375
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ad683438118f70800000000000000
+      internalID: 9187651327376599156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_27
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3360
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdb16f257d188c80800000000000000
+      internalID: -8320367922423677510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_28
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2933
+        width: 247
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84806fae8cd443360800000000000000
+      internalID: 7148424033874610248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_29
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2933
+        width: 255
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12046d72415390f00800000000000000
+      internalID: 1083455546043285537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_30
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2933
+        width: 255
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8a39e9a7b3e2c0800000000000000
+      internalID: -4403474070247928232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_31
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 2935
+        width: 258
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d508aabae1dbfdb90800000000000000
+      internalID: -7214840138597498787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_32
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 2933
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1b543a1c9a7650800000000000000
+      internalID: 6231464670781971068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2686
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751bdfb7532527830800000000000000
+      internalID: 4067403803135947095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2686
+        width: 255
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e5f0ee16abba60800000000000000
+      internalID: 7690923440218695420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_35
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2683
+        width: 6
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96610a1dbaf584a50800000000000000
+      internalID: 6505554853297657449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_36
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2684
+        width: 247
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b001ac6ca460c0800000000000000
+      internalID: -4583348938198699231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_37
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2680
+        width: 261
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3801801a8f0cd0800000000000000
+      internalID: -2589699457225834785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_38
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2682
+        width: 5
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d554d6ff89296cc50800000000000000
+      internalID: 6685191882696115549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_39
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2688
+        width: 272
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbedafa04c8b9c60800000000000000
+      internalID: 7826002986939575258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_40
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2688
+        width: 274
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff4d679a8241050800000000000000
+      internalID: 5770281730876702511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_41
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2677
+        width: 255
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d700e08ba139f9e60800000000000000
+      internalID: 7971251608435425405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_42
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 2677
+        width: 247
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f249cb5ae1635940800000000000000
+      internalID: 5283674447025881844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_43
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2678
+        width: 256
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc5fea10fda2d20800000000000000
+      internalID: 3254658879051910167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_44
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2675
+        width: 260
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad7c88ef76d0ac80800000000000000
+      internalID: -8313409067275223644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_45
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 2678
+        width: 261
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258d3d3c3128d650800000000000000
+      internalID: 6257788224840500519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_46
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2678
+        width: 257
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166051289e95f4010800000000000000
+      internalID: 1175256887211656801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_47
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2289
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22e1c069c1858420800000000000000
+      internalID: 2631652259179651628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_48
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2260
+        width: 191
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419de367010a2fe0800000000000000
+      internalID: -1213156018370014901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_49
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2145
+        width: 495
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79132af6f8cdb2790800000000000000
+      internalID: -7553701441372540521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_50
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2128
+        width: 537
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff524d0eefbc1ba10800000000000000
+      internalID: 1923542811418043903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_51
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 2119
+        width: 376
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b0b790d9803f50800000000000000
+      internalID: 6859133761476408928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_52
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 2271
+        width: 175
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be1bf3db34d14320800000000000000
+      internalID: 2540545018238279344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_53
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2236
+        width: 174
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b216fe672441de090800000000000000
+      internalID: -8003718687071706837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_54
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2249
+        width: 162
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e917a2ac37eec0800000000000000
+      internalID: -3537792312990373674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_55
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2230
+        width: 86
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9fff1de57164760800000000000000
+      internalID: 7441661130293901743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1703
+        width: 317
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72230c547d3b2ce70800000000000000
+      internalID: 9134060731430351399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_57
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1700
+        width: 309
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f3e2ed213aabb50800000000000000
+      internalID: 6609774704551935744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_58
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1700
+        width: 321
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd5e99b2624ef10800000000000000
+      internalID: 2298003678573222675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_59
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1696
+        width: 277
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf3eb9213cacf90800000000000000
+      internalID: -6932514191691220185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_60
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1683
+        width: 262
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ead83348067220800000000000000
+      internalID: 2483181329351108450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_61
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1701
+        width: 259
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7306c29364b06cc0800000000000000
+      internalID: -3719774952450817157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_62
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 1688
+        width: 254
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f14a5754d1ebc0800000000000000
+      internalID: -3755487142608767351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_63
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 1700
+        width: 253
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f2013f5d40eafd0800000000000000
+      internalID: -2328918640351498406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_64
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 582
+        width: 241
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3e9e97e3bb0a20800000000000000
+      internalID: 3029712981716777730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_65
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 582
+        width: 236
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b8ea880b33870e0800000000000000
+      internalID: -2272009178708014269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_66
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 584
+        width: 232
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2212af9c93d0c9a20800000000000000
+      internalID: 3070343587812745506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_67
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 586
+        width: 276
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed973efc36d01a70800000000000000
+      internalID: 8795765629706018282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_68
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 586
+        width: 493
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0eba9a52974e20800000000000000
+      internalID: 3334794966932000651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_69
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 585
+        width: 507
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b44a2f4764e3190800000000000000
+      internalID: -7980864021552936127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_70
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37fcea125dd25d40800000000000000
+      internalID: 5571759033719519036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_71
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 283
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6823048e6c4ed4890800000000000000
+      internalID: -7472064663786605946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_72
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 87
+        width: 229
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d3c36b6add0d10800000000000000
+      internalID: 2093569556567283768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_73
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 40
+        width: 240
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f85c5a0d6d79c0800000000000000
+      internalID: -3927863408730769761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_74
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 89
+        width: 224
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e3fccaea885fc90800000000000000
+      internalID: -7136647750693732815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_75
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6570980d8110b0800000000000000
+      internalID: -5759667380507284903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_76
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 89
+        width: 235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b5654fcae2f350800000000000000
+      internalID: 6049155425455419492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_77
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 42
+        width: 280
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6942a7876382508d0800000000000000
+      internalID: -2880852172218948458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_78
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 30
+        width: 261
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03899185a08290b60800000000000000
+      internalID: 7712739861741541424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_79
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 14
+        width: 264
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc4dfff0015c3fd0800000000000000
+      internalID: -2360923039912342343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_80
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 141
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1e8ee3b48ba7b0800000000000000
+      internalID: -5211926235414913100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_81
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 80
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5463480d1a952cd0800000000000000
+      internalID: -2583489361743748002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_82
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 79
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd946caac97dbfa0800000000000000
+      internalID: -5783332435091218977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundPound_83
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 75
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810566e4d1d3b86c0800000000000000
+      internalID: -4140148236358365160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
